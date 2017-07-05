@@ -1,2 +1,2 @@
 # Caffe_TensorRT
-https://img.shields.io/badge/style-flat--squared-green.svg?style=flat-square
+[![e-mail](https://img.shields.io/badge/email-jungmokoo@kaist.ac.kr-blue.svg)](mailto:jungmokoo@kaist.ac.kr)
